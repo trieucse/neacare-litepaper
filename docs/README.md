@@ -95,8 +95,9 @@ Với những ưu điểm bên dưới chúng tôi chọn triển khai dự án 
 - Donate contract
 - User contract
 
-> Frontent: Nextjs
+> Frontent: react js
 
+- Nextjs
 - Typescript
 - redux
 - tailwind
